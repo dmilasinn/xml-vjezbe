@@ -9,10 +9,10 @@
         <Drzava>Hrvatska</Drzava>
     </MjestoStanovanja>
 
-    <NaručeniArtikl>
+    <NaruceniArtikl>
         <Naziv>Haljina</Naziv>
         <Kolicina>1</Kolicina>
         <Cijena>40</Cijena>
-    </NaručeniArtikl>
+    </NaruceniArtikl>
 
 </Narudzba>
