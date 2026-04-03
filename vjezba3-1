@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Narudzba>
+    <Ime>Ivana</Ime>
+    <Prezime>Horvat</Prezime>
+
+    <MjestoStanovanja>
+        <Adresa>Ulica grada Vukovara 121</Adresa>
+        <Grad>Zagreb</Grad>
+        <Drzava>Hrvatska</Drzava>
+    </MjestoStanovanja>
+
+    <NaručeniArtikl>
+        <Naziv>Haljina</Naziv>
+        <Kolicina>1</Kolicina>
+        <Cijena>40</Cijena>
+    </NaručeniArtikl>
+
+</Narudzba>
