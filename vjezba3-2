@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Osoba spol="Ž">
+    <Ime>Ivana</Ime>
+    <Prezime>Horvat</Prezime>
+
+    <MjestoStanovanja>
+        <Adresa>Ulica grada Vukovara 121</Adresa>
+        <Grad>Zagreb</Grad>
+        <Drzava>Hrvatska</Drzava>
+    </MjestoStanovanja>
+
+    <Kontakt>
+        <Mobitel>0993246587</Mobitel>
+        <KucniTelefon>015458248</KucniTelefon>
+        <Email>ivana.horvat@gmail.com</Email>
+    </Kontakt>
+
+</Osoba>
