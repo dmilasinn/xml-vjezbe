@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osoba xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance">
+
+<ime>Maja</ime>
+<cijena>208</cijena>
+<godine>32</godine>
+<aktivan>true</aktivan>
+<datumRodjenja>1994-12-06<datumRodnjenja>
+<vrijemePocetka>10:26:32<vrijemePocetka>
+
+</osoba>
